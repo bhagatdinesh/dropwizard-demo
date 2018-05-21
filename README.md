@@ -11,7 +11,7 @@ Health Check
 ---
 
 To see your applications health enter url `http://localhost:8081/healthcheck`
-
+---
 
 To develop new application follow steps:
 
@@ -53,7 +53,7 @@ shaded: true
 
  Y: : Y
 
-
+---
 
 Existing dropwizard example:
 https://github.com/dropwizard/dropwizard/tree/master/dropwizard-example
